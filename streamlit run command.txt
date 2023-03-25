@@ -1,0 +1,1 @@
+streamlit run "D:\Last Project\Multiple disease application\multiple_disease.py"
